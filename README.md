@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahul15205" alt="rahul15205" /></a> </p>
+
 
 - 👨‍💻 All of my projects are available at [https://portfolio-git-main-rahul15205s-projects.vercel.app](https://portfolio-git-main-rahul15205s-projects.vercel.app)
 
