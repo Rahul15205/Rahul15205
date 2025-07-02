@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-git-main-rahul15205s-projects.vercel.app](https://portfolio-git-main-rahul15205s-projects.vercel.app)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ICK2dEgzLQy2e4-Xztc_YgjobX_rSBo-/view?usp=drive_link](https://drive.google.com/file/d/1ICK2dEgzLQy2e4-Xztc_YgjobX_rSBo-/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1GEQtBeHx3UVZR90KpBFiIbn-078wUW6l/view?usp=drive_link](https://drive.google.com/file/d/1GEQtBeHx3UVZR90KpBFiIbn-078wUW6l/view?usp=drive_link)
 
 - ⚡ Fun fact **I think i am funny**
 
